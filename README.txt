@@ -1,4 +1,7 @@
-Need to create an empty "NUbots_Dataset_A.json" file in the corresponding location
+Base on matterport/Mask_RCNN https://github.com/matterport/Mask_RCNN
+Tensorflow:  1.13.1  
+Keras: 2.2.4
+
 Data storage structure:
 
 ../NUbotsDataSet/
