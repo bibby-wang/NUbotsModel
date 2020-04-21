@@ -1,7 +1,7 @@
 Need to create an empty "NUbots_Dataset_A.json" file in the corresponding location
 Data storage structure:
 
- ../NUbotsDataSet/
+../NUbotsDataSet/
 --------------------train/
 --------------------------imgs/
 ---------------------------------*.jpg
@@ -32,4 +32,8 @@ Data storage structure:
 ----------------------------------------*.png
 ---------------------------------classMask/
 ---------------------------------------------*.png
+../model/
+--------- datasetProcess.ipynb
+--------- NUbotsModel.ipynb
+--------- visualize_JSON.ipynb
 
